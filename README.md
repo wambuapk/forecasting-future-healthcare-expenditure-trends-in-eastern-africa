@@ -1,1 +1,1 @@
-# forecasting-future-healthcare-expenditure-trends-in-eastern-africa
+# Forecasting Future Healthcare Expenditure Trends in Eastern Africa
